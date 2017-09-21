@@ -1,1 +1,18 @@
-style.css
+.wrapper {
+    width: 970px;
+    height: 970px;
+    background-color: #3776ab;
+}
+
+.header {
+    display: block;
+    vertical-align: top;
+}
+.topnav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+}
